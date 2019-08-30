@@ -5,11 +5,14 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
-.jumbotron-lights {
+.jumbotron {
   padding top: 10rem;
-  backgound-colour: #EFCBE3;
+  background-color: #EFCBE3;
 
 }
 .btn-primary{
   background-color: #F343B7;
+}
+.navbar-toggler {
+  background-color: #F343B7
 }
