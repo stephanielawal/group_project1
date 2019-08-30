@@ -16,3 +16,7 @@ body {
 .navbar-toggler {
   background-color: #F343B7
 }
+.header {
+  padding-top: 2rem;
+  text-align: center;
+}
